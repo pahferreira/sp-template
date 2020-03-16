@@ -1,0 +1,14 @@
+{
+  "name": "cra-template-sp",
+  "version": "1.0.4",
+  "description": "SP Template",
+  "main": "template.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cra-template"
+  ],
+  "author": "Pah Ferreira",
+  "license": "MIT"
+}
